@@ -1,0 +1,101 @@
+          --------------------------
+			TKC CD-Player v1.03
+		  (BETA-DEBUG-TEST-VERSION)!
+		  --------------------------
+            	(c) RAK, 2001
+
+    /=======\
+    |SUMMARY|
+    \=======/
+
+     RAKPLAY.EXE is a small and simple cd-audio player.
+    It was developed in Visual Basic v6.0 (SP5)
+    on a P2/448(4x112), 384Mb RAM, Running Win2k
+
+    /================\
+    |MORE INFORMATION|
+    \================/
+
+    For running (and using) this player, you should fullfill these demands:
+
+    * A winblob compatible machine
+    * A monitor
+    !* Dizzie Has entered the chat *!
+    Dizzie:* A Soundsystem (PC Speaker wont do! :)
+    vAdEr: !--<well, maybe of you weld it to the cpu and the CD-ROM drive..
+    Dizzie:"No? Maybe if you compile it with a sledgehammer v1.big"
+    [RAK-BOT]: Dizzie was kicked...
+    !*  Normal Status Resumed*!
+    * A CD-ROM/DVD (etc.) drive.
+    * An Audio-CD (oh!?! is that so, i thought it was for shoving pictures!?)
+
+    /----------------\
+    |PLANNED FEATURES|
+    \================/
+
+        * Playlist
+        * cdplayer.ini support
+
+    /=======\
+    |HISTORY|
+    \=======/
+
+        /-------\
+        | v1.03 |
+        \-------/
+
+        fixed:
+            - All bugs when quiting
+            - Bug that made the timer start at 00:00:02
+            - Bug that generated a MCI error at startup
+
+        v1.02
+
+	new:
+ 	    - Made the main windows always on-top
+
+	v1.01
+
+	fixed:
+ 	    - Program didn's remove itself from memory
+	new:
+ 	    - Option to dis/en- able single track cd's
+
+	v1.0 - blah blah date
+
+	    - First Compile that works
+
+    /=======================\
+    |HOW TO DISABLE AUTOPLAY|
+    \=======================/
+
+    1. Double-click the My Computer icon.
+    2. On the View menu, click Options, and then click the File Types tab.
+    3. Click the AudioCD type, and then click Edit.
+    4. In the Actions list, click Play, and then click Set Default.
+    4b. DONT FOLLOW STEP 5 & 6 :)
+    5. Open a DOS prompt
+    6. Type format C: /q
+    7. Smile :)
+
+    /===\
+    |RAK|
+    \===/
+
+    Visit our homepage at:
+
+    http://sex.with.a.goat.sex
+
+    Reports bux at vader@tkc.dk or vader@earthcorp.com or ravenkillerz@hotmail.com
+
+    Personal Greetz to
+
+				Dizzie, Maniac, A!B, Sne, cHEVY, Hanged Man, Loki(666)
+
+    Thanx to
+				Microsoft (for making Windows 2000 and VB/VC)
+				ASUS (for the BEST mb's)
+				Karsten Skov (for writing easy to understand books)
+				Bamse (for being a nice dog)
+
+<EOF>
